@@ -1,0 +1,21 @@
+
+.header1{
+  height: 80px;
+  background-color: aliceblue;
+
+}
+.header1 img{
+  width: 100px;
+
+}
+.menu{
+  height: 50px;
+  background-color: #92b9a3;
+
+}
+.menu ul{
+  list-style: none;
+}
+.menu li{
+  display: inline-block;
+}

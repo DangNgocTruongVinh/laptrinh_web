@@ -1,0 +1,7 @@
+div{
+    background: linear-gradient(to right), #00ffff,#FF02ff;
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+    border: 2px solid white;
+}
